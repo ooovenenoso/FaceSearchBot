@@ -1,6 +1,7 @@
 
 # 🤖 FaceSearchBot: Unmasking Faces on Discord
 
+![FaceSearchBot Logo](https://github.com/ooovenenoso/FaceSearchBot/blob/main/banner.png)
 
 **FaceSearchBot** is an advanced tool for Discord that lets you search faces on the web and link them with Social Media, Scammers, Sex Offenders, Videos, Mugshots, News, and Blogs. It's your ally in uncovering the story behind each face.
 
